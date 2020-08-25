@@ -1,0 +1,14 @@
+.hero{
+  height: 94.2vh;
+  background: url("src/assets/img/hero-bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.hero-text{
+  color: white;
+  font-weight: bold;
+  padding-top: 3%;
+}

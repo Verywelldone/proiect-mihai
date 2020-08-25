@@ -1,0 +1,14 @@
+.example-header-image {
+  background-image: url('src/assets/services/business_center-black-18dp.svg');
+  background-size: cover;
+  width: 55px;
+  height: 55px;
+}
+.row{
+  margin:0 auto;
+  justify-content: center;
+}
+
+.service{
+  color: white;
+}
